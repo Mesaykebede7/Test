@@ -1,1 +1,1 @@
-select * from STG_DENTAQUEST_AUTH_DETAIL
+select * from STG_DENTAQUEST_AUTH_DETAIL_tese1
