@@ -1,0 +1,1 @@
+select * from STG_DENTAQUEST_AUTH_DETAIL
